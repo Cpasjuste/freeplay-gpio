@@ -20,7 +20,7 @@ int main() {
         if (digitalRead(SHUTDOWN_PIN) == 1) {
             break;
         }
-        delay(1000);
+        delay(100);
     }
 
     printf("RetroRoot: shutting down...\n");
