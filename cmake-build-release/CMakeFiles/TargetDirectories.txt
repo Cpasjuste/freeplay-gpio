@@ -1,3 +1,0 @@
-/opt/buildroot/freeplay-gpio/cmake-build-release/CMakeFiles/rebuild_cache.dir
-/opt/buildroot/freeplay-gpio/cmake-build-release/CMakeFiles/freeplay_gpio.dir
-/opt/buildroot/freeplay-gpio/cmake-build-release/CMakeFiles/edit_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/freeplay_gpio.dir/main.c.o  -o freeplay_gpio 

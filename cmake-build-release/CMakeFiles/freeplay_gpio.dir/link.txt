@@ -1,1 +1,0 @@
-/opt/buildroot/buildroot/output/host/bin/arm-linux-gcc --sysroot=/opt/buildroot/buildroot/output/host/arm-buildroot-linux-gnueabihf/sysroot -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os  -DNDEBUG   CMakeFiles/freeplay_gpio.dir/main.c.o  -o freeplay_gpio -lwiringPi 

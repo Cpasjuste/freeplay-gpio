@@ -1,4 +1,0 @@
-/snap/clion/73/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_TOOLCHAIN_FILE=/opt/buildroot/buildroot/output/host/share/buildroot/toolchainfile.cmake -DCMAKE_INSTALL_PREFIX=/usr -G "CodeBlocks - Unix Makefiles" /opt/buildroot/freeplay-gpio
--- Configuring done
--- Generating done
--- Build files have been written to: /opt/buildroot/freeplay-gpio/cmake-build-release
